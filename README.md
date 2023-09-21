@@ -1,3 +1,3 @@
 My frist readme
 
-updated
+README updated from github.com
