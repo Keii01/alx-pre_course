@@ -1,3 +1,3 @@
 My frist readme
 
-readme updated form github.com
+README updated form github.com
